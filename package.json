@@ -9,16 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
     "axios": "^1.7.7",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.2",
     "vite": "^5.4.21"
   },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^4.3.1",
-    "vite": "^5.4.21"
-  },
+  "devDependencies": {},
   "description": "1. Open a terminal inside the frontend folder. 2. Run:    ```bash    npm install    ``` 3. Copy `.env.example` to `.env` 4. Start the frontend:    ```bash    npm run dev    ```",
   "main": "vite.config.js",
   "keywords": [],
